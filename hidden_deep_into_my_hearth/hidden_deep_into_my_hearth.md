@@ -1,4 +1,4 @@
-# Hidden deep into my hearth
+# ❤️ Hidden deep into my hearth  <img src="/images/hiddenDeepInMyHearth.png" alt="Windows CMD Screenshot" width="50" height="50">
 **Infos:** <br>
 Difficulty: easy<br>
 Est. Time: 60min<br>

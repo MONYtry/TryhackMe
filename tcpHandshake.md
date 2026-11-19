@@ -1,8 +1,8 @@
 # 👋 3-Way TCP Handshake
 
 First up what really is the Handshake and why do we even use it?<br>
-TCP was invented by a few very smart people in the **1970's**<br>
-TCP Handshake makes sure to only send Data when both Server and client are ready and reachable <br>
+TCP stands for Transmission Controll Protocol it was invented by a few very smart people in the **1970's**<br>
+The TCP-Handshake makes sure to only send Data when both Server and client are ready and reachable <br>
 Because when it wouldn't we would be using UDP (User Datagram Protocol)
 More about UDP, **Link: Coming soon!**
 
@@ -27,7 +27,9 @@ CLIENT -> ACK -> SERVER
 If you want to stop a TCP-Connection you will be doing the opposit of the first handshake!<br>
 visualization:
 ```
-CLIENT -> FIN -> SERVER 
-Server -> ACK FIN -> CLIENT
-CLIENT -> ACK -> SERVER 
+CLIENT  -> FIN -> SERVER
+CLIENT  <- ACK <- SERVER
+CLIENT  <- FIN <- SERVER
+CLIENT  -> ACK -> SERVER 
 ```
+Now the TCP Connection was closed 🥳

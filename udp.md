@@ -13,4 +13,5 @@ UDP-Flooding is just sending so many packets until the target can't keep up with
 # 🛡️ How can this be prevented?
 Modern Servers & Websites use DDoS-Protection, Firewalls, Rate-Limiting which is good because providers like cloudflare are doing very good jobs because cloudflare handled an attack with <br>
 **31.4 Tbps in late 2025** this is so much you could download **GTA VI** about 124 times per second!
-More infomations: comming soon
+<br><br>
+More infomations: <a href="https://github.com/MONYtry/TryhackMe/blob/main/udp.md?plain=1">My Documentation about DDoS & Protection! </a>

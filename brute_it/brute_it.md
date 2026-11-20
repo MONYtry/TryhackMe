@@ -82,8 +82,8 @@ my beloved John-The-Ripper, then I've had to login as root and yes I've been gra
 thats why i used my beloved John-The-Ripper, then I've had to login as root and yes I've been granted access to the root-account<br> <br> <br>
 
 # 🛡️ How could this be prevented?
-First step is to having an anti-bruteforce system inside the admin-login.
-Second step is not to leak any login-credentails especialy for SSH.
+First step is to having an anti-bruteforce system inside the admin-login. <br>
+Second step is not to leak any login-credentails especialy for SSH.<br>
 Last and the most important step is to secure your user-rights, make sure do not leave any way to ROOT-Access within the system!
 <br>
 <br>
